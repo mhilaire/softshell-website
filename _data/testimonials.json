@@ -1,0 +1,14 @@
+[
+	{
+    	"name": "Michael W.",
+    	"company": "Software Architect",
+    	"review": "I had the pleasure of attending a training with Maxime, and I was very impressed. Not only was he very knowlegable about Nuxeo and Java in general, it was clear he was very experienced as an engineer and was a very good architect. We got tremendous value from the training. Not only did we learn the Nuxeo stack, but we got some key information about upcoming integrations we wanted to do. His suggestions will save us a lot of time and effort, and I’m very grateful to have had the chance to work with him",
+    	"image": "https://media-exp1.licdn.com/dms/image/C5103AQGgG9yC7-FlxQ/profile-displayphoto-shrink_400_400/0/1516660392781?e=1625702400&v=beta&t=h-nJ3yRUDYXYguWCnJtH75OqYiIFK66CeLS5mekY7JM"
+  	},
+  	{
+    	"name": "Thierry Delprat",
+    	"company": "CTO, Nuxeo",
+    	"review": "During the last 6 years, I had the opportunity to work and interact with Maxime on several projects. I saw Maxime constantly grow as an engineer, first as a Java developer and later as software and cloud architect. I know for a fact that Maxime knows how to write good code and design an application that works and scales.",
+    	"image": "https://media-exp1.licdn.com/dms/image/C4E03AQEAC9KqyNYfYA/profile-displayphoto-shrink_400_400/0/1516243316066?e=1625702400&v=beta&t=P8QKEBBlVvQe98TzD7Zl-PD1di2QmHth-QijrdEXuzc"
+  	}
+]

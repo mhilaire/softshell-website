@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Quality",
+    "description": "Your success is ours. We put as much details as we can in your project.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Cost Efficient",
+    "description": "Each dollar count. We make sure your investment with us will pay you back in short term.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Stay Ahead",
+    "description": "We stay up to date on the latest technologies.",
+    "image": "images/features/noun_The Process_1885341.svg"
   }
 ]

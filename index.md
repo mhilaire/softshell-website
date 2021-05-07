@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Softshell Services
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Softshell Services provides Digital Asset Management and Media Asset Management technical expertise 
+intro_image: "images/illustrations/graph-screen.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Make your content work for you.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Content is at heart of every organization. Leverage automation and integration to make the data reach the right target.

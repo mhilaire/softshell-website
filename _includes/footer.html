@@ -3,7 +3,11 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-inner">
-          <h3 class="footer-title">{{site.title}}</h3>
+          <div>
+            <div class="footer-title">{{site.title}}</div>
+            <div class="footer-details">{{site.company.address.street}}</div>
+            <div class="footer-details">{{site.company.address.city}}</div>
+          </div>
           <ul>
             {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
             {% for item in footermenu %}
